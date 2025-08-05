@@ -1,4 +1,3 @@
----
 # 💻 Java Programming Fundamentals: What to Learn & What to Build
 
 *A step-by-step guide for beginners focused on building progressively more advanced terminal applications in Java.*
